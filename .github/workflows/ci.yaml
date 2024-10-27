@@ -25,7 +25,7 @@ jobs:
       run: go build -o go-web-app
 
     - name: Test
-      run: go test ./... # ./... means all subdirectories
+      run: go test ./... # ./... means all subdirectories.
 
   code_quality:
     runs-on: ubuntu-latest
