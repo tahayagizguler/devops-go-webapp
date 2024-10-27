@@ -5,7 +5,7 @@ replicaCount: 1
 image:
   repository: tyguler/go-web-app
   # Overrides the image tag whose default is the chart appVersion.
-  tag: v1
+  tag: "11543967261"
   pullPolicy: IfNotPresent
 
 ingress:
