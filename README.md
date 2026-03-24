@@ -3,6 +3,9 @@
 ## 🌟 Project Overview
 
 Welcome to the **Go Web App Deployment** project! This initiative focuses on creating a robust web application using Go, containerizing it with Docker, and deploying it on AWS EKS (Elastic Kubernetes Service). We aim to streamline our development workflow with a modern CI/CD process powered by GitHub Actions and ArgoCD, ensuring seamless updates and scalability.
+<img width="1408" height="768" alt="Gemini_Generated_Image_se9ixase9ixase9i" src="https://github.com/user-attachments/assets/49623dcb-e64b-4970-88b7-4cf6b33b2d17" />
+
+
 
 ## 🛠️ Technologies Used
 
